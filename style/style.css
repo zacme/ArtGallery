@@ -40,3 +40,17 @@ h1 {
     text-align: center;
     max-width: 100%;
 }
+/*About page*/
+.biography{
+    margin-top: 10px;
+    font-size: 35px;
+    color: white;
+}
+.contact{
+    color: white;
+    font-size: xx-large;
+}
+.paintings{
+    color: white;
+    font-size: xx-large;
+}
