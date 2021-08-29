@@ -17,6 +17,7 @@ h1 {
 }
 .active{
     color: white;
+    font-size: large;
 }
 .cover{
     width: 100%
@@ -67,4 +68,7 @@ h1 {
 .paintings{
     color: white;
     font-size: xx-large;
+}
+img{
+    width: 100%;
 }
